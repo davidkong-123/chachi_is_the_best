@@ -1,3 +1,31 @@
+
+<!-- TABLE OF CONTENTS -->
+
+
+
+<!--Chess -->
+### About The Project -- E commerce website
+
+This is a project to build a template e-commerce website for a fashion designer-- Nour, to sell his designed sweater to the public. 
+
+Website Template: https://chachi-the-best.herokuapp.com/
+
+
+Demo:
+
+![Screenshot 2022-05-15 020002](https://user-images.githubusercontent.com/57188393/168459351-c995c399-e97e-442c-ae34-08e2d34ac9c5.jpg)
+
+
+
+### Built With
+
+* Python
+* Django
+* Heroku
+* Github
+
+
+### Manual and intro git command
 1. create virtual environmet
 py -m pip install --user virtualenv
 py -m venv env
