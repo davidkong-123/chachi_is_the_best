@@ -28,7 +28,7 @@ Demo:
 * Github
 
 
-### Manual and intro git command
+### Manual and Intro git command
 1. create virtual environmet
 py -m pip install --user virtualenv
 py -m venv env
