@@ -8,7 +8,7 @@
 
 This is a project to build a template e-commerce website for a fashion designer-- Nour, to sell his designed sweater to the public. 
 
-Website Template: https://chachi-the-best.herokuapp.com/
+Website Template deployed on Heroku: https://chachi-the-best.herokuapp.com/
 
 
 Demo:
@@ -21,6 +21,9 @@ Demo:
 
 * Python
 * Django
+* HTML
+* CSS
+* JavaScript
 * Heroku
 * Github
 
