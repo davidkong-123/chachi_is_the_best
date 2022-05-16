@@ -13,9 +13,34 @@ Website Template deployed on Heroku: https://chachi-the-best.herokuapp.com/
 
 Demo:
 
-![Screenshot 2022-05-15 020002](https://user-images.githubusercontent.com/57188393/168459351-c995c399-e97e-442c-ae34-08e2d34ac9c5.jpg)
+
+1. Add items
 
 
+https://user-images.githubusercontent.com/57188393/168517990-0c43c2f9-b9c4-4dbd-866b-c17a8d1b22af.mp4
+
+
+2. Delete items
+
+
+https://user-images.githubusercontent.com/57188393/168518015-4e2bad17-5cd5-486a-bf63-6aaf2fdff7c6.mp4
+
+
+3. Checkout items 
+
+
+
+https://user-images.githubusercontent.com/57188393/168518169-8240e463-f42f-4ef7-923c-663b95a167be.mp4
+
+
+4. Pay with Paypal
+
+
+
+https://user-images.githubusercontent.com/57188393/168518172-df05dc10-85ac-41d2-96d8-20bdf8a5b349.mp4
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -95,5 +120,7 @@ git commit -m "Meaningful message"
 
 git push
 
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
 **/end/**
