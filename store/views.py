@@ -16,6 +16,9 @@ def store(request):
      context = {"products": products,"cartItems":cartItems}
      return render(request, 'store/store.html', context)
 
+def poem(request):
+     return render(request, 'store/poem.html')
+
 def cart(request):
 
      data = cartData(request)
