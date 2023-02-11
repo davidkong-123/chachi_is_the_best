@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '_1hc%k^6^-_!aje$!tv$w=4ucj-c11x3^y*j+f^mh!#_=x^2ci'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['.nourjaffan.com','chachi-the-best.herokuapp.com','127.0.0.1']
 
